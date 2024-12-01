@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WGCCore/bluepages.github.io/static/css/main.b43436c4.css",
+    "main.js": "/WGCCore/bluepages.github.io/static/js/main.ba4bf627.js",
+    "static/js/453.e3d1ba3a.chunk.js": "/WGCCore/bluepages.github.io/static/js/453.e3d1ba3a.chunk.js",
+    "static/media/logo.svg": "/WGCCore/bluepages.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WGCCore/bluepages.github.io/index.html",
+    "main.b43436c4.css.map": "/WGCCore/bluepages.github.io/static/css/main.b43436c4.css.map",
+    "main.ba4bf627.js.map": "/WGCCore/bluepages.github.io/static/js/main.ba4bf627.js.map",
+    "453.e3d1ba3a.chunk.js.map": "/WGCCore/bluepages.github.io/static/js/453.e3d1ba3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43436c4.css",
+    "static/js/main.ba4bf627.js"
+  ]
+}
