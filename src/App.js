@@ -39,6 +39,7 @@ const App = () => {
       email: '',
       category: 'Electrical',
       services: 'Electrical',
+      contact: '',
       comments: [],
     },
     {
@@ -46,6 +47,7 @@ const App = () => {
       phone: '+61 421 726 027',
       email: 'dylan@fomofinance.com.au',
       category: 'Home loans',
+      contact: '',
       comments: [
         'Suneel: Highly recommend Dylan, We have been using his lending services from 7 years now',
       ],
@@ -56,6 +58,7 @@ const App = () => {
       email: '',
       category: 'Home improvements',
       services: 'Blinds, Security doors',
+      contact: '',
       comments: [''],
     },
     {
@@ -63,6 +66,7 @@ const App = () => {
       phone: '',
       email: '',
       category: 'Real Estate Agent',
+      contact: 'Sweta',
       services: 'Rental/Leasing',
       comments: [''],
     },
@@ -144,6 +148,16 @@ const App = () => {
               fullWidth
               label='Business Name'
               value={selectedBusiness.name}
+              InputProps={{
+                readOnly: true,
+              }}
+              margin='normal'
+            />
+            <TextField
+              readOnly
+              fullWidth
+              label='Contact Name'
+              value={selectedBusiness.contact}
               InputProps={{
                 readOnly: true,
               }}
