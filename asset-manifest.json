@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bluepages/static/css/main.e6c13ad2.css",
-    "main.js": "/bluepages/static/js/main.8005ef6a.js",
+    "main.js": "/bluepages/static/js/main.1d8017e4.js",
     "static/js/453.e3d1ba3a.chunk.js": "/bluepages/static/js/453.e3d1ba3a.chunk.js",
     "index.html": "/bluepages/index.html",
     "main.e6c13ad2.css.map": "/bluepages/static/css/main.e6c13ad2.css.map",
-    "main.8005ef6a.js.map": "/bluepages/static/js/main.8005ef6a.js.map",
+    "main.1d8017e4.js.map": "/bluepages/static/js/main.1d8017e4.js.map",
     "453.e3d1ba3a.chunk.js.map": "/bluepages/static/js/453.e3d1ba3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8005ef6a.js"
+    "static/js/main.1d8017e4.js"
   ]
 }
