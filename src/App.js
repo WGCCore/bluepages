@@ -82,13 +82,8 @@ const App = () => {
     <ThemeProvider theme={blueTheme}>
       <CssBaseline />
       <Container maxWidth='md' sx={{ mt: 4 }}>
-        <Typography variant='h4' color='primary' gutterBottom>
-          Business Directory
-        </Typography>
-
-        {/* Directory Table */}
         <Typography variant='h6' color='primary' gutterBottom>
-          Directory List
+          WGC Core Directory List
         </Typography>
         <TableContainer component={Paper} sx={{ mb: 4 }}>
           <Table>
